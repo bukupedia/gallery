@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "&copy; 2026 All rights reserved. No images or content may be reproduced, distributed, or transmitted in any form without prior written permission.",
   "usage-stats": false
 }
